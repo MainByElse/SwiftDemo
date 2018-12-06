@@ -48,17 +48,22 @@
 		116872A885EB219BDC645942 /* Pods_SwiftDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B22AD7720BC1018C6F075F0 /* Pods-SwiftDemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftDemoTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftDemoTests/Pods-SwiftDemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		1E1A1A42CDDA285FE70CB088 /* Pods_SwiftDemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftDemoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F45496F2190179000F23636 /* Swift4-7 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-7 闭包.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2F4A438E215F71E7008DA311 /* Swift4-基本运算符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-基本运算符.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2F4A438F215F7B56008DA311 /* YPConstant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YPConstant.swift; sourceTree = "<group>"; };
-		2F786D1B21ACF024000FBF48 /* Swift4-9 类和结构体.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-9 类和结构体.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2F76421B21B776E60048A96A /* Swift4-基本运算符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-基本运算符.playground"; sourceTree = "<group>"; };
+		2F76421C21B776E60048A96A /* Swift4-9 类和结构体.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-9 类和结构体.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2F76421D21B776E60048A96A /* Swift4-10 属性.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-10 属性.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		2F76421E21B776E60048A96A /* Swift4-控制流2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-控制流2.playground"; sourceTree = "<group>"; };
+		2F76421F21B776E60048A96A /* Swift4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Swift4.playground; sourceTree = "<group>"; };
+		2F76422021B776E60048A96A /* Swift4-6 函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-6 函数.playground"; sourceTree = "<group>"; };
+		2F76422121B776E60048A96A /* Swift4-集合类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-集合类型.playground"; sourceTree = "<group>"; };
+		2F76422221B776E60048A96A /* Swift4-8 枚举.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-8 枚举.playground"; sourceTree = "<group>"; };
+		2F76422321B776E60048A96A /* Swift4-7 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-7 闭包.playground"; sourceTree = "<group>"; };
+		2F76422421B776E60048A96A /* Swift4-字符串和字符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-字符串和字符.playground"; sourceTree = "<group>"; };
 		2F7A418C21634C9300503E17 /* NetworkTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkTool.swift; sourceTree = "<group>"; };
 		2F7A4191216375A700503E17 /* YPScrollMenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YPScrollMenuCell.swift; sourceTree = "<group>"; };
 		2F7A4192216375A700503E17 /* YPScrollMenuCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YPScrollMenuCell.xib; sourceTree = "<group>"; };
 		2F7A419521637CA300503E17 /* YPScrollMenuColCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YPScrollMenuColCell.swift; sourceTree = "<group>"; };
 		2F7A419621637CA300503E17 /* YPScrollMenuColCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YPScrollMenuColCell.xib; sourceTree = "<group>"; };
-		2F7ABF5121AFBB930001E80E /* Swift4-10 属性.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-10 属性.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2F7FA5D5215F057D004EBFAF /* Swift4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Swift4.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2F87C7DE206FC4D600DCA71E /* SwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F87C7E1206FC4D600DCA71E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F87C7E3206FC4D600DCA71E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -73,12 +78,7 @@
 		2F87C801206FC4D600DCA71E /* SwiftDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDemoUITests.swift; sourceTree = "<group>"; };
 		2F87C803206FC4D600DCA71E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F87C810206FCAE900DCA71E /* SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2F885C2321ABC0CD00E1F221 /* Swift4-8 枚举.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-8 枚举.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2F94BAB62165B5FA00DDA85D /* ESTabbarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ESTabbarViewController.swift; sourceTree = "<group>"; };
-		2F983B84216AE8EF00C9695E /* Swift4-字符串和字符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-字符串和字符.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2F983BB8216C4F0800C9695E /* Swift4-集合类型.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-集合类型.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2FD415C3216F24620066C760 /* Swift4-6 函数.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-6 函数.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
-		2FE6D9DD216D816F0003CE7A /* Swift4-控制流2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-控制流2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		3C97B6DD5A04911F5D0CDF7B /* Pods-SwiftDemoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftDemoUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftDemoUITests/Pods-SwiftDemoUITests.release.xcconfig"; sourceTree = "<group>"; };
 		49D4409E6FBB8818BDEB93F9 /* Pods-SwiftDemoUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftDemoUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftDemoUITests/Pods-SwiftDemoUITests.debug.xcconfig"; sourceTree = "<group>"; };
 		4CFE70CAC23E91D72923CC3B /* Pods_SwiftDemoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftDemoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -116,6 +116,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2F76421A21B776E60048A96A /* 笔记 */ = {
+			isa = PBXGroup;
+			children = (
+				2F76421F21B776E60048A96A /* Swift4.playground */,
+				2F76421B21B776E60048A96A /* Swift4-基本运算符.playground */,
+				2F76422421B776E60048A96A /* Swift4-字符串和字符.playground */,
+				2F76422121B776E60048A96A /* Swift4-集合类型.playground */,
+				2F76421E21B776E60048A96A /* Swift4-控制流2.playground */,
+				2F76422021B776E60048A96A /* Swift4-6 函数.playground */,
+				2F76422221B776E60048A96A /* Swift4-8 枚举.playground */,
+				2F76422321B776E60048A96A /* Swift4-7 闭包.playground */,
+				2F76421C21B776E60048A96A /* Swift4-9 类和结构体.playground */,
+				2F76421D21B776E60048A96A /* Swift4-10 属性.playground */,
+			);
+			path = "笔记";
+			sourceTree = "<group>";
+		};
 		2F7A418B21634C7000503E17 /* 网络请求 */ = {
 			isa = PBXGroup;
 			children = (
@@ -176,6 +193,7 @@
 		2F87C7E0206FC4D600DCA71E /* SwiftDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2F76421A21B776E60048A96A /* 笔记 */,
 				2F94BAB52165B5FA00DDA85D /* tabbar */,
 				2F7A418E2163756000503E17 /* 首页 */,
 				2F7A418B21634C7000503E17 /* 网络请求 */,
@@ -186,16 +204,6 @@
 				2F87C7E8206FC4D600DCA71E /* Assets.xcassets */,
 				2F87C7EA206FC4D600DCA71E /* LaunchScreen.storyboard */,
 				2F87C7ED206FC4D600DCA71E /* Info.plist */,
-				2F7FA5D5215F057D004EBFAF /* Swift4.playground */,
-				2F4A438E215F71E7008DA311 /* Swift4-基本运算符.playground */,
-				2F983B84216AE8EF00C9695E /* Swift4-字符串和字符.playground */,
-				2F983BB8216C4F0800C9695E /* Swift4-集合类型.playground */,
-				2FE6D9DD216D816F0003CE7A /* Swift4-控制流2.playground */,
-				2FD415C3216F24620066C760 /* Swift4-6 函数.playground */,
-				2F45496F2190179000F23636 /* Swift4-7 闭包.playground */,
-				2F885C2321ABC0CD00E1F221 /* Swift4-8 枚举.playground */,
-				2F786D1B21ACF024000FBF48 /* Swift4-9 类和结构体.playground */,
-				2F7ABF5121AFBB930001E80E /* Swift4-10 属性.playground */,
 			);
 			path = SwiftDemo;
 			sourceTree = "<group>";
