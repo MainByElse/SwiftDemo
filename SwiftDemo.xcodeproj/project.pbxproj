@@ -59,6 +59,7 @@
 		2F76422221B776E60048A96A /* Swift4-8 枚举.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-8 枚举.playground"; sourceTree = "<group>"; };
 		2F76422321B776E60048A96A /* Swift4-7 闭包.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-7 闭包.playground"; sourceTree = "<group>"; };
 		2F76422421B776E60048A96A /* Swift4-字符串和字符.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-字符串和字符.playground"; sourceTree = "<group>"; };
+		2F76422521BA176D0048A96A /* Swift4-11 方法.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Swift4-11 方法.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		2F7A418C21634C9300503E17 /* NetworkTool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkTool.swift; sourceTree = "<group>"; };
 		2F7A4191216375A700503E17 /* YPScrollMenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YPScrollMenuCell.swift; sourceTree = "<group>"; };
 		2F7A4192216375A700503E17 /* YPScrollMenuCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = YPScrollMenuCell.xib; sourceTree = "<group>"; };
@@ -129,6 +130,7 @@
 				2F76422321B776E60048A96A /* Swift4-7 闭包.playground */,
 				2F76421C21B776E60048A96A /* Swift4-9 类和结构体.playground */,
 				2F76421D21B776E60048A96A /* Swift4-10 属性.playground */,
+				2F76422521BA176D0048A96A /* Swift4-11 方法.playground */,
 			);
 			path = "笔记";
 			sourceTree = "<group>";
